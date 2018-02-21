@@ -1,6 +1,10 @@
 # HIJRI CALENDAR
 
-|Build Status| |Version| |Python| |Size| |Codecov|
+[![Build Status](https://travis-ci.org/hmtanbir/hijricalendar.svg?branch=master)](https://travis-ci.org/hmtanbir/hijricalendar)
+[![Version](https://img.shields.io/pypi/v/hijricalendar.svg?)](http://badge.fury.io/py/hijricalendar)
+[![Python](https://img.shields.io/pypi/pyversions/hijricalendar.svg?)](https://pypi.python.org/pypi/hijricalendar/0.0.1)
+[![Size](https://img.shields.io/github/size/hmtanbir/hijricalendar/hijricalendar/__init__.py.svg?)](https://github.com/hmtanbir/hijricalendar/)
+[![codecov](https://codecov.io/gh/hmtanbir/hijricalendar/branch/master/graph/badge.svg)](https://codecov.io/gh/hmtanbir/hijricalendar)
 
 Hijri Calendar is a package for Bangla language users with various functionalities including Arabic date in bangla and english format.
 
@@ -213,3 +217,5 @@ Create Github Pull Request https://github.com/hmtanbir/hijricalendar/pulls
 
 
 If you have suggestion use GitHub issue system or send a message in linkedin https://www.linkedin.com/in/hmtanbir.
+
+[![Build Status](https://travis-ci.org/hmtanbir/hijricalendar.svg?branch=master)](https://travis-ci.org/hmtanbir/hijricalendar)

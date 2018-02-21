@@ -35,7 +35,7 @@ Get Bangla date that includes:
 
 
 
- Installation
+# Installation
 
 
 We recommend install ``hijricalendar``  through pip install using Python 3 but it supports

@@ -6,8 +6,8 @@ python:
     - "3.5"
     - "3.6"
 install:
-  - pip3 install -r requirements.txt
-  - pip install -r requirements.txt
+  - pip install bangla
+  - pip install umalqurra
   - pip install codecov
 
 script:

@@ -56,6 +56,13 @@ class TestHijriCalendar(unittest.TestCase):
         self.assertEquals(result, expect)
 
     def test_get_month(self):
+        result = hijricalendar.get_month()
+        today = HijriDate.today()
+        month = int(today.month)
+        expect = month
+        self.assertEquals(result, expect)
+
+    def test_get_month_for_specific_date(self):
         result = hijricalendar.get_month(21, 2, 2018)
         expect = 6
         self.assertEquals(result, expect)

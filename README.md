@@ -217,5 +217,3 @@ Create Github Pull Request https://github.com/hmtanbir/hijricalendar/pulls
 
 
 If you have suggestion use GitHub issue system or send a message in linkedin https://www.linkedin.com/in/hmtanbir.
-
-[![Build Status](https://travis-ci.org/hmtanbir/hijricalendar.svg?branch=master)](https://travis-ci.org/hmtanbir/hijricalendar)

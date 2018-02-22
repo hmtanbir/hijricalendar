@@ -41,11 +41,16 @@ Get Bangla date that includes:
 We recommend install ``hijricalendar``  through pip install using Python 3 but it supports
 python 2.7
 
+Run this command when you are using virtualenv.
+ ```
+ $ pip install hijricalendar
+ ```
+ For global(when you are not using virtualenv)
 
  ```
  $ sudo pip install hijricalendar
  ```
-
+ 
 # Example
 Open python shell:
 

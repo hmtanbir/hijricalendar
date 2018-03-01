@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import unittest
-import unittest
 import os
 import sys
 import bangla
